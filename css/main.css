@@ -207,7 +207,7 @@ Primary use:
   font-family: Lato-Regular;
   font-size: 12px;
   line-height: 1;
-  color: #846add;
+  color: red;
   text-transform: uppercase;
 }
 
@@ -215,7 +215,7 @@ Primary use:
   font-family: Lato-Bold;
   font-size: 15px;
   line-height: 1.4;
-  color: #846add;
+  color: red;
 }
 
 .s2-txt3 {
@@ -356,13 +356,13 @@ Primary use:
 /*---------------------------------------------*/
 .how-btn1 {
   border-radius: 35px;
-  background-color: #846add;
+  background-color: red;
   padding-right: 20px;
   padding-left: 20px;
 }
 
 .how-btn1:hover {
-  background-color: #5d43b5;
+  background-color: darkred;
 }
 
 
